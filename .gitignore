@@ -1,0 +1,4 @@
+*.mat
+*.7z
+*.fasta
+.gitignore
